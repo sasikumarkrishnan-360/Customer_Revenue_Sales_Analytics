@@ -1,0 +1,9 @@
+product_id,product_name,category,cost,selling_price
+P101,Laptop,Electronics,500,700
+P102,Headphones,Electronics,50,90
+P103,Office Chair,Furniture,100,180
+P104,Desk,Furniture,150,250
+P105,Monitor,Electronics,180,280
+P106,Keyboard,Accessories,30,60
+P107,Mouse,Accessories,20,40
+P108,Printer,Electronics,200,320
